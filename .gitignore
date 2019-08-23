@@ -1,0 +1,6 @@
+.idea
+config/local.json
+build
+dist
+coverage
+log
